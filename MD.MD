@@ -10,6 +10,8 @@
 2.  `producer.py` (Dummy Data Generator)
 3.  `decision_service.py` (The Application)
 
+(producer.py is for pipeline demonstration purposes)
+
 # Install ClickHouse
 curl [https://clickhouse.com/](https://clickhouse.com/) | sh
 sudo ./clickhouse install
